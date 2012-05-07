@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.EmailPing"
 VERSION = "1.0.0"
 AUTHOR = "David Buler (phonegi)"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.EmailPing']
 INSTALL_REQUIRES = []
